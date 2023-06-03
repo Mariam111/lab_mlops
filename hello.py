@@ -1,4 +1,4 @@
-"""Hello module"""
+""" Hello module"""
 
 def sub_xy(value_1, value_2):
     """  Subtraction """
